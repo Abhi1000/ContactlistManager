@@ -1,0 +1,17 @@
+.App{
+  background-color: lightgrey;
+  min-height: 100vh;
+  overflow: hidden;
+}
+.col-md-9{
+  padding: 70px;
+}
+input[type=submit]{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  border: none;
+  padding: 8px 16px;
+  margin: 4px 2px;
+  width: 50%;
+}

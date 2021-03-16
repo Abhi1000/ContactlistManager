@@ -1,0 +1,44 @@
+.p-button .p-component .p-button-secondary{
+  margin-left: auto; 
+  margin-right: 0;
+}
+.contact-list{
+  margin: 30px;
+  box-shadow: 10px 10px 5px grey;
+}
+.contact-list .table-header {
+  display: flex;
+  justify-content: space-between;
+}
+.contact-list .p-datatable-header .global-search {
+  margin-left: auto;
+  margin-right: 10px;
+}
+.contact-list .p-datatable.p-datatable-contacts .p-datatable-header {
+  padding: 1rem;
+  text-align: left;
+  font-size: 1.3rem;
+}
+.contact-list .p-paginator .p-paginator-current {
+  margin-left: auto;
+}
+.contact-list .p-datatable.p-datatable-contacts .p-paginator {
+  padding: 1rem;
+}
+.spinner-border{
+  top: 50%;
+  left: 50%;
+  display: block;
+  position: fixed;
+  width: 3rem;
+  height: 3rem;
+  color: black;
+}
+.newContact{
+  left: 25%;
+  margin-top: 100px;
+}
+.updateContact{
+  left: 25%;
+  margin-top: 100px;
+}
